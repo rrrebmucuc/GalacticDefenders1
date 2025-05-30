@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quit">QUIT</string>
+    <string name="start">START</string>
+    <string name="restart">RESTART</string>
+    <string name="menu">MENU</string>
+    <string name="you_lost">YOU LOST!</string>
+</resources>
